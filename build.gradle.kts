@@ -25,7 +25,7 @@ dependencies {
     compileOnly("us.dynmap:dynmap-api:3.4-beta-3")
     compileOnly("us.dynmap:DynmapCoreAPI:3.4")
     implementation("com.squareup.okhttp3:okhttp:4.9.3")
-    implementation("org.json:json:20211205")
+    implementation("org.json:json:20240303")
 }
 
 tasks.jar {
