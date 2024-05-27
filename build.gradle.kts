@@ -1,6 +1,6 @@
 plugins {
 	java
-	id("org.jetbrains.kotlin.jvm") version "1.9.24"
+	id("org.jetbrains.kotlin.jvm") version "2.0.0"
 	id("xyz.jpenilla.run-paper") version "2.3.0"
 }
 
