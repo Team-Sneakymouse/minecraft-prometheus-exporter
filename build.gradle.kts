@@ -21,7 +21,7 @@ repositories {
 dependencies {
 	implementation("org.jetbrains.kotlin:kotlin-stdlib:1.6.0")
     compileOnly("io.papermc.paper:paper-api:1.20.4-R0.1-SNAPSHOT")
-	compileOnly("me.clip:placeholderapi:2.11.5")
+	compileOnly("me.clip:placeholderapi:2.11.6")
     compileOnly("us.dynmap:dynmap-api:3.4-beta-3")
     compileOnly("us.dynmap:DynmapCoreAPI:3.4")
     implementation("com.squareup.okhttp3:okhttp:4.12.0")
